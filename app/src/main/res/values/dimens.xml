@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="reset_mar_bottom">60dp</dimen>
+    <dimen name="padding">16sp</dimen>
+    <dimen name="textSize">22sp</dimen>
+    <dimen name="ButtonSize">48sp</dimen>
+    <dimen name="buttonMargin">8sp</dimen>
+    <dimen name="Margin">16sp</dimen>
+    <dimen name="paddingcheck">24sp</dimen>
+    <dimen name="button_mar_top">44dp</dimen>
+</resources>
